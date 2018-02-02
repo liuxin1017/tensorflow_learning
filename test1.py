@@ -1,1 +1,1 @@
-print 'hello world, python, github and tensorflow'
+fprint 'hello world, python, github and tensorflow'
