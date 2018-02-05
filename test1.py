@@ -1,1 +1,2 @@
-fprint 'hello world, python, github and tensorflow'
+print 'hello world, python, github and tensorflow'
+a = b
