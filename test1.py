@@ -5,3 +5,4 @@ a = b = class ClassName(object):
 		super(ClassName, self).__init__()
 		self.arg = arg
 		
+eval('1+1')
